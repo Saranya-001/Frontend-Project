@@ -1,0 +1,401 @@
+.when-women-category {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .when-women-category .div {
+    background-color: #ffffff;
+    width: 400px;
+    height: 270px;
+    position: relative;
+  }
+  
+  .when-women-category .select-your-choice {
+    position: absolute;
+    width: 158px;
+    top: 24px;
+    left: 121px;
+    font-family: "Khula", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .when-women-category .group {
+    position: absolute;
+    width: 302px;
+    height: 20px;
+    top: 54px;
+    left: 50px;
+  }
+  
+  .when-women-category .overlap-group {
+    position: relative;
+    width: 300px;
+    height: 20px;
+    background-color: #f2f2f2;
+    border-radius: 2px;
+  }
+  
+  .when-women-category .overlap {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    top: 0;
+    left: 100px;
+    background-color: #000000;
+    border-radius: 2px;
+  }
+  
+  .when-women-category .frame {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    position: relative;
+    top: 4px;
+    left: 30px;
+  }
+  
+  .when-women-category .fluent-emoji-high {
+    position: relative;
+    width: 8px;
+    height: 8px;
+  }
+  
+  .when-women-category .text-wrapper {
+    position: relative;
+    width: 28px;
+    height: 10px;
+    margin-top: -1px;
+    font-family: "Khula", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 8px;
+    letter-spacing: 0;
+    line-height: normal;
+    cursor: pointer;
+  }
+  
+  .when-women-category .div-wrapper {
+    display: inline-flex;
+    align-items: flex-end;
+    gap: 4px;
+    position: absolute;
+    top: 5px;
+    left: 36px;
+  }
+  
+  .when-women-category .text-wrapper-2 {
+    position: relative;
+    width: 16px;
+    height: 9px;
+    margin-top: -1px;
+    font-family: "Khula", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 8px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .when-women-category .text-wrapper-3 {
+    position: absolute;
+    top: 4px;
+    left: 242px;
+    font-family: "Khula", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 8px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .when-women-category .frame-2 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 6px;
+    position: absolute;
+    top: 90px;
+    left: 18px;
+  }
+  
+  .when-women-category .group-2 {
+    position: relative;
+    width: 88px;
+    height: 143px;
+  }
+  
+  .when-women-category .frame-wrapper {
+    position: absolute;
+    width: 88px;
+    height: 100px;
+    top: 0;
+    left: 0;
+    background-image: url(./img/women-3-1.png);
+    background-size: 100% 100%;
+  }
+  
+  .when-women-category .wedding-special-wrapper {
+    display: inline-flex;
+    left: 7px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 2px 4px;
+    position: relative;
+    top: 2px;
+    background-color: #ffffff;
+    border-radius: 1px;
+  }
+  
+  .when-women-category .wedding-special {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Khula", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 5px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .when-women-category .frame-3 {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    position: absolute;
+    top: 103px;
+    left: -3px;
+  }
+  
+  .when-women-category .mens-kurta {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Khula", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 8px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .when-women-category .ellipse {
+    position: relative;
+    width: 2px;
+    height: 2px;
+    background-color: #000000;
+    border-radius: 1px;
+  }
+  
+  .when-women-category .text-wrapper-4 {
+    position: relative;
+    width: 24px;
+    height: 7px;
+    font-family: "Khula", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 6px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .when-women-category .frame-4 {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 3px;
+    position: absolute;
+    top: 117px;
+    left: 0;
+  }
+  
+  .when-women-category .text-wrapper-5 {
+    position: relative;
+    width: 30px;
+    height: 6px;
+    margin-top: -1px;
+    font-family: "Khula", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 6px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .when-women-category .overlap-group-wrapper {
+    position: relative;
+    width: 23px;
+    height: 6px;
+  }
+  
+  .when-women-category .overlap-group-2 {
+    position: relative;
+    width: 21px;
+    height: 6px;
+  }
+  
+  .when-women-category .text-wrapper-6 {
+    position: absolute;
+    width: 21px;
+    top: 0;
+    left: 0;
+    font-family: "Khula", Helvetica;
+    font-weight: 600;
+    color: #8f8f8f;
+    font-size: 6px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .when-women-category .line {
+    position: absolute;
+    width: 21px;
+    height: 1px;
+    top: 4px;
+    left: 0;
+  }
+  
+  .when-women-category .text-wrapper-7 {
+    position: relative;
+    width: 23px;
+    height: 6px;
+    margin-top: -1px;
+    font-family: "Khula", Helvetica;
+    font-weight: 600;
+    color: #ff3737;
+    font-size: 6px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .when-women-category .overlap-wrapper {
+    position: absolute;
+    width: 90px;
+    height: 15px;
+    top: 128px;
+    left: 0;
+  }
+  
+  .when-women-category .overlap-2 {
+    position: relative;
+    width: 88px;
+    height: 15px;
+    background-color: #000000;
+    border-radius: 2px;
+    
+
+  }
+  
+  .when-women-category .text-wrapper-8 {
+    position: absolute;
+    width: 31px;
+    top: 3px;
+    left: 28px;
+    font-family: "Khula", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 6px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+    cursor: pointer;
+  }
+  
+  .when-women-category .rectangle {
+    position: absolute;
+    width: 88px;
+    height: 100px;
+    top: 0;
+    left: 0;
+  }
+  
+  .when-women-category .frame-5 {
+    gap: 4px;
+    left: 0;
+    display: inline-flex;
+    align-items: center;
+    position: absolute;
+    top: 103px;
+  }
+  
+  .when-women-category .mens-kurta-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Khula", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 8px;
+    letter-spacing: 0;
+    line-height: normal;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+  }
+  
+  .when-women-category .overlap-3 {
+    position: absolute;
+    width: 88px;
+    height: 100px;
+    top: 0;
+    left: 0;
+    background-image: url(./img/women-3-3.png);
+    background-size: 100% 100%;
+  }
+  
+  .when-women-category .frame-6 {
+    display: flex;
+    width: 45px;
+    left: 2px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 2px 4px;
+    position: relative;
+    top: 2px;
+    background-color: #ffffff;
+    border-radius: 1px;
+  }
+  
+  .when-women-category .frame-7 {
+    gap: 2px;
+    left: 0;
+    display: inline-flex;
+    align-items: center;
+    position: absolute;
+    top: 103px;
+  }
+  
+  .when-women-category .overlap-4 {
+    position: absolute;
+    width: 88px;
+    height: 100px;
+    top: 0;
+    left: 0;
+    background-image: url(./img/women-3-4.png);
+    background-size: 100% 100%;
+  }
+  
+  .when-women-category .frame-8 {
+    gap: 4px;
+    left: -1px;
+    display: inline-flex;
+    align-items: center;
+    position: absolute;
+    top: 103px;
+  }
+  
